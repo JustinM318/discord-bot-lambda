@@ -8,3 +8,11 @@
       description: The message to echo back.
       type: 3 # string
       required: true
+
+- name: deeznuts
+  description: Gottem!
+  options:
+    - name: message
+      description: The message to echo back.
+      type: 3 # string
+      required: true
