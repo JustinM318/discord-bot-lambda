@@ -1,0 +1,716 @@
+ID,PokedexNumber,Name,Rarity,Collection,Type,Stage
+,001,Bulbasaur,◇,Genetic Apex - Mewtwo (A1),Grass,Basic
+,002,Ivysaur,◇◇,Genetic Apex - Mewtwo (A1),Grass,Stage 1
+,003,Venusaur,◇◇◇,Genetic Apex - Mewtwo (A1),Grass,Stage 2
+,004,Venusaur ex,◇◇◇◇,Genetic Apex - Mewtwo (A1),Grass,Stage 2
+,005,Caterpie,◇,Genetic Apex - Pikachu (A1),Grass,Basic
+,006,Metapod,◇,Genetic Apex - Pikachu (A1),Grass,Stage 1
+,007,Butterfree,◇◇◇,Genetic Apex - Pikachu (A1),Grass,Stage 2
+,009,Kakuna,◇,Genetic Apex - Mewtwo (A1),Grass,Stage 1
+,010,Beedrill,◇◇◇,Genetic Apex - Mewtwo (A1),Grass,Stage 2
+,011,Oddish,◇,Genetic Apex - Charizard (A1),Grass,Basic
+,012,Gloom,◇◇,Genetic Apex - Charizard (A1),Grass,Stage 1
+,013,Vileplume,◇◇◇,Genetic Apex - Charizard (A1),Grass,Stage 2
+,014,Paras,◇,Genetic Apex - Pikachu (A1),Grass,Basic
+,015,Parasect,◇◇,Genetic Apex - Pikachu (A1),Grass,Stage 1
+,016,Venonat,◇,Genetic Apex - Mewtwo (A1),Grass,Basic
+,017,Venomoth,◇◇,Genetic Apex - Mewtwo (A1),Grass,Stage 1
+,018,Bellsprout,◇,Genetic Apex - Charizard (A1),Grass,Basic
+,019,Weepinbell,◇◇,Genetic Apex - Charizard (A1),Grass,Stage 1
+,020,Victreebel,◇◇◇,Genetic Apex - Charizard (A1),Grass,Stage 2
+,021,Exeggcute,◇,Genetic Apex - Charizard (A1),Grass,Basic
+,022,Exeggutor,◇◇◇,Genetic Apex - Charizard (A1),Grass,Stage 1
+,023,Exeggutor ex,◇◇◇◇,Genetic Apex - Charizard (A1),Grass,Stage 1
+,024,Tangela,◇,Genetic Apex - Charizard (A1),Grass,Basic
+,025,Scyther,◇,Genetic Apex - Mewtwo (A1),Grass,Basic
+,026,Pinsir,◇◇,Genetic Apex - Any (A1),Grass,Basic
+,027,Cottonee,◇,Genetic Apex - Any (A1),Grass,Basic
+,028,Whimsicott,◇◇,Genetic Apex - Any (A1),Grass,Stage 1
+,029,Petilil,◇,Genetic Apex - Any (A1),Grass,Basic
+,030,Lilligant,◇◇,Genetic Apex - Any (A1),Grass,Stage 1
+,031,Skiddo,◇,Genetic Apex - Charizard (A1),Grass,Basic
+,032,Gogoat,◇,Genetic Apex - Charizard (A1),Grass,Stage 1
+,033,Charmander,◇,Genetic Apex - Charizard (A1),Fire,Basic
+,034,Charmeleon,◇◇,Genetic Apex - Charizard (A1),Fire,Stage 1
+,035,Charizard,◇◇◇,Genetic Apex - Charizard (A1),Fire,Stage 2
+,036,Charizard ex,◇◇◇◇,Genetic Apex - Charizard (A1),Fire,Stage 2
+,037,Vulpix,◇,Genetic Apex - Charizard (A1),Fire,Basic
+,038,Ninetales,◇◇,Genetic Apex - Charizard (A1),Fire,Stage 1
+,039,Growlithe,◇,Genetic Apex - Pikachu (A1),Fire,Basic
+,040,Arcanine,◇◇◇,Genetic Apex - Pikachu (A1),Fire,Stage 1
+,041,Arcanine ex,◇◇◇◇,Genetic Apex - Pikachu (A1),Fire,Stage 1
+,042,Ponyta,◇,Genetic Apex - Any (A1),Fire,Basic
+,043,Rapidash,◇◇,Genetic Apex - Any (A1),Fire,Stage 1
+,044,Magmar,◇,Genetic Apex - Charizard (A1),Fire,Basic
+,045,Flareon,◇◇◇,Genetic Apex - Charizard (A1),Fire,Stage 1
+,046,Moltres,◇◇◇,Genetic Apex - Charizard (A1),Fire,Basic
+,047,Moltres ex,◇◇◇◇,Genetic Apex - Charizard (A1),Fire,Basic
+,048,Heatmor,◇,Genetic Apex - Any (A1),Fire,Basic
+,049,Salandit,◇,Genetic Apex - Mewtwo (A1),Fire,Basic
+,050,Salazzle,◇,Genetic Apex - Mewtwo (A1),Fire,Stage 1
+,051,Sizzlipede,◇,Genetic Apex - Any (A1),Fire,Basic
+,052,Centiskorch,◇◇,Genetic Apex - Any (A1),Fire,Stage 1
+,053,Squirtle,◇,Genetic Apex - Pikachu (A1),,Basic
+,054,Wartortle,◇◇,Genetic Apex - Pikachu (A1),Water,Stage 1
+,055,Blastoise,◇◇◇,Genetic Apex - Pikachu (A1),Water,Stage 2
+,056,Blastoise ex,◇◇◇◇,Genetic Apex - Pikachu (A1),Water,Stage 2
+,057,Psyduck,◇,Genetic Apex - Any (A1),Water,Basic
+,058,Golduck,◇◇,Genetic Apex - Any (A1),Water,Stage 1
+,059,Poliwag,◇,Genetic Apex - Charizard (A1),Water,Basic
+,060,Poliwhirl,◇◇,Genetic Apex - Charizard (A1),Water,Stage 1
+,061,Poliwrath,◇◇◇,Genetic Apex - Charizard (A1),Water,Stage 2
+,062,Tentacool,◇,Genetic Apex - Mewtwo (A1),Water,Basic
+,063,Tentacruel,◇◇,Genetic Apex - Mewtwo (A1),Water,Stage 1
+,064,Seel,◇,Genetic Apex - Pikachu (A1),Water,Basic
+,065,Dewgong,◇◇,Genetic Apex - Pikachu (A1),Water,Stage 1
+,066,Shellder,◇,Genetic Apex - Mewtwo (A1),Water,Basic
+,067,Cloyster,◇◇,Genetic Apex - Mewtwo (A1),Water,Stage 1
+,068,Krabby,◇,Genetic Apex - Mewtwo (A1),Water,Basic
+,069,Kingler,◇◇,Genetic Apex - Mewtwo (A1),Water,Stage 1
+,070,Horsea,◇,Genetic Apex - Pikachu (A1),Water,Basic
+,071,Seadra,◇◇,Genetic Apex - Pikachu (A1),Water,Stage 1
+,072,Goldeen,◇,Genetic Apex - Pikachu (A1),Water,Basic
+,073,Seaking,◇,Genetic Apex - Pikachu (A1),Water,Stage 1
+,074,Staryu,◇,Genetic Apex - Charizard (A1),Water,Basic
+,075,Starmie,◇◇,Genetic Apex - Charizard (A1),Water,Stage 1
+,076,Starmie ex,◇◇◇◇,Genetic Apex - Charizard (A1),Water,Stage 1
+,077,Magikarp,◇,Genetic Apex - Pikachu (A1),Water,Basic
+,078,Gyarados,◇◇◇,Genetic Apex - Pikachu (A1),Water,Stage 1
+,079,Lapras,◇◇◇,Genetic Apex - Charizard (A1),Water,Basic
+,080,Vaporeon,◇◇◇,Genetic Apex - Mewtwo (A1),Water,Stage 1
+,081,Omanyte,◇◇,Genetic Apex - Pikachu (A1),Water,Stage 1
+,082,Omastar,◇◇◇,Genetic Apex - Pikachu (A1),Water,Stage 2
+,083,Articuno,◇◇◇,Genetic Apex - Mewtwo (A1),Water,Basic
+,084,Articuno ex,◇◇◇◇,Genetic Apex - Mewtwo (A1),Water,Basic
+,085,Ducklett,◇,Genetic Apex - Charizard (A1),Water,Basic
+,086,Swanna,◇◇,Genetic Apex - Charizard (A1),Water,Stage 1
+,087,Froakie,◇,Genetic Apex - Charizard (A1),Water,Basic
+,088,Frogadier,◇◇,Genetic Apex - Charizard (A1),Water,Stage 1
+,089,Greninja,◇◇◇,Genetic Apex - Charizard (A1),Water,Stage 2
+,090,Pyukumuku,◇,Genetic Apex - Charizard (A1),Water,Basic
+,091,Bruxish,◇◇,Genetic Apex - Any (A1),Water,Basic
+,092,Snom,◇,Genetic Apex - Any (A1),Water,Basic
+,093,Frosmoth,◇◇,Genetic Apex - Any (A1),Water,Stage 1
+,094,Pikachu,◇,Genetic Apex - Pikachu (A1),Electric,Basic
+,095,Raichu,◇◇◇,Genetic Apex - Pikachu (A1),Electric,Stage 1
+,096,Pikachu ex,◇◇◇◇,Genetic Apex - Pikachu (A1),Electric,Basic
+,097,Magnemite,◇,Genetic Apex - Pikachu (A1),Electric,Basic
+,098,Magneton,◇◇◇,Genetic Apex - Pikachu (A1),Electric,Stage 1
+,099,Voltorb,◇,Genetic Apex - Pikachu (A1),Electric,Basic
+,100,Electrode,◇◇,Genetic Apex - Pikachu (A1),Electric,Stage 1
+,101,Electabuzz,◇,Genetic Apex - Pikachu (A1),Electric,Basic
+,102,Jolteon,◇◇◇,Genetic Apex - Pikachu (A1),Electric,Stage 1
+,103,Zapdos,◇◇◇,Genetic Apex - Pikachu (A1),Electric,Basic
+,104,Zapdos ex,◇◇◇◇,Genetic Apex - Pikachu (A1),Electric,Basic
+,105,Blitzle,◇,Genetic Apex - Any (A1),Electric,Basic
+,106,Zebstrika,◇◇,Genetic Apex - Any (A1),Electric,Stage 1
+,107,Tynamo,◇,Genetic Apex - Mewtwo (A1),Electric,Basic
+,108,Eelektrik,◇◇,Genetic Apex - Mewtwo (A1),Electric,Stage 1
+,109,Eelektross,◇◇◇,Genetic Apex - Mewtwo (A1),Electric,Stage 2
+,110,Helioptile,◇,Genetic Apex - Any (A1),Electric,Basic
+,111,Heliolisk,◇,Genetic Apex - Any (A1),Electric,Stage 1
+,112,Pincurchin,◇◇,Genetic Apex - Any (A1),Electric,Basic
+,113,Clefairy,◇,Genetic Apex - Pikachu (A1),Psychic,Basic
+,114,Clefable,◇◇,Genetic Apex - Pikachu (A1),Psychic,Stage 1
+,115,Abra,◇,Genetic Apex - Charizard (A1),Psychic,Basic
+,116,Kadabra,◇◇,Genetic Apex - Charizard (A1),Psychic,Stage 1
+,117,Alakazam,◇◇◇,Genetic Apex - Charizard (A1),Psychic,Stage 2
+,118,Slowpoke,◇,Genetic Apex - Any (A1),Psychic,Basic
+,119,Slowbro,◇◇,Genetic Apex - Any (A1),Psychic,Stage 1
+,120,Gastly,◇,Genetic Apex - Mewtwo (A1),Psychic,Basic
+,121,Haunter,◇◇,Genetic Apex - Mewtwo (A1),Psychic,Stage 1
+,122,Gengar,◇◇◇,Genetic Apex - Mewtwo (A1),Psychic,Stage 2
+,123,Gengar ex,◇◇◇◇,Genetic Apex - Mewtwo (A1),Psychic,Stage 2
+,124,Drowzee,◇,Genetic Apex - Pikachu (A1),Psychic,Basic
+,125,Hypno,◇◇◇,Genetic Apex - Pikachu (A1),Psychic,Stage 1
+,126,Mr. Mime,◇◇,Genetic Apex - Mewtwo (A1),Psychic,Basic
+,127,Jynx,◇,Genetic Apex - Mewtwo (A1),Psychic,Basic
+,128,Mewtwo,◇◇◇,Genetic Apex - Mewtwo (A1),Psychic,Basic
+,129,Mewtwo ex,◇◇◇◇,Genetic Apex - Mewtwo (A1),Psychic,Basic
+,130,Ralts,◇,Genetic Apex - Mewtwo (A1),Psychic,Basic
+,131,Kirlia,◇◇,Genetic Apex - Mewtwo (A1),Psychic,Stage 1
+,132,Gardevoir,◇◇◇,Genetic Apex - Mewtwo (A1),Psychic,Stage 2
+,133,Woobat,◇,Genetic Apex - Any (A1),Psychic,Basic
+,134,Swoobat,◇,Genetic Apex - Any (A1),Psychic,Stage 1
+,135,Golett,◇,Genetic Apex - Any (A1),Psychic,Basic
+,136,Golurk,◇◇,Genetic Apex - Any (A1),Psychic,Stage 1
+,137,Sandshrew,◇,Genetic Apex - Any (A1),Fighting,Basic
+,138,Sandslash,◇◇,Genetic Apex - Any (A1),Fighting,Stage 1
+,139,Diglett,◇,Genetic Apex - Pikachu (A1),Fighting,Basic
+,140,Dugtrio,◇◇,Genetic Apex - Pikachu (A1),Fighting,Stage 1
+,141,Mankey,◇,Genetic Apex - Charizard (A1),Fighting,Basic
+,142,Primeape,◇◇,Genetic Apex - Charizard (A1),Fighting,Stage 1
+,143,Machop,◇,Genetic Apex - Charizard (A1),Fighting,Basic
+,144,Machoke,◇◇,Genetic Apex - Charizard (A1),Fighting,Stage 1
+,145,Machamp,◇◇◇,Genetic Apex - Charizard (A1),Fighting,Stage 2
+,146,Machamp ex,◇◇◇◇,Genetic Apex - Charizard (A1),Fighting,Stage 2
+,147,Geodude,◇,Genetic Apex - Pikachu (A1),Fighting,Basic
+,148,Graveler,◇◇,Genetic Apex - Pikachu (A1),Fighting,Stage 1
+,149,Golem,◇◇◇,Genetic Apex - Pikachu (A1),Fighting,Stage 2
+,150,Onix,◇◇,Genetic Apex - Pikachu (A1),Fighting,Basic
+,151,Cubone,◇,Genetic Apex - Mewtwo (A1),Fighting,Basic
+,152,Marowak,◇◇,Genetic Apex - Mewtwo (A1),Fighting,Stage 1
+,153,Marowak ex,◇◇◇◇,Genetic Apex - Mewtwo (A1),Fighting,Stage 1
+,154,Hitmonlee,◇,Genetic Apex - Mewtwo (A1),Fighting,Basic
+,155,Hitmonchan,◇,Genetic Apex - Charizard (A1),Fighting,Basic
+,156,Rhyhorn,◇,Genetic Apex - Mewtwo (A1),Fighting,Basic
+,157,Rhydon,◇◇,Genetic Apex - Mewtwo (A1),Fighting,Stage 1
+,158,Kabuto,◇◇,Genetic Apex - Charizard (A1),Fighting,Stage 1
+,159,Kabutops,◇◇◇,Genetic Apex - Charizard (A1),Fighting,Stage 2
+,160,Mienfoo,◇,Genetic Apex - Pikachu (A1),Fighting,Basic
+,161,Mienshao,◇◇,Genetic Apex - Pikachu (A1),Fighting,Stage 1
+,162,Clobbopus,◇,Genetic Apex - Any (A1),Fighting,Basic
+,163,Grapploct,◇◇,Genetic Apex - Any (A1),Fighting,Stage 1
+,164,Ekans,◇,Genetic Apex - Any (A1),Dark,Basic
+,165,Arbok,◇◇,Genetic Apex - Any (A1),Dark,Stage 1
+,166,Nidoran F,◇,Genetic Apex - Pikachu (A1),Dark,Basic
+,167,Nidorina,◇◇,Genetic Apex - Pikachu (A1),Dark,Stage 1
+,168,Nidoqueen,◇◇◇,Genetic Apex - Pikachu (A1),Dark,Stage 2
+,169,Nidoran M,◇,Genetic Apex - Pikachu (A1),Dark,Basic
+,170,Nidorino,◇◇,Genetic Apex - Pikachu (A1),Dark,Stage 1
+,171,Nidoking,◇◇◇,Genetic Apex - Pikachu (A1),Dark,Stage 2
+,172,Zubat,◇,Genetic Apex - Mewtwo (A1),Dark,Basic
+,173,Golbat,◇◇,Genetic Apex - Mewtwo (A1),Dark,Stage 1
+,174,Grimer,◇,Genetic Apex - Mewtwo (A1),Dark,Basic
+,175,Muk,◇◇◇,Genetic Apex - Mewtwo (A1),Dark,Stage 1
+,176,Koffing,◇,Genetic Apex - Mewtwo (A1),Dark,Basic
+,177,Weezing,◇◇◇,Genetic Apex - Mewtwo (A1),Dark,Stage 1
+,178,Mawile,◇,Genetic Apex - Charizard (A1),Dark,Basic
+,179,Pawniard,◇,Genetic Apex - Any (A1),Steel,Basic
+,180,Bisharp,◇◇,Genetic Apex - Any (A1),Steel,Stage 1
+,181,Meltan,◇,Genetic Apex - Charizard (A1),Steel,Basic
+,182,Melmetal,◇◇◇,Genetic Apex - Charizard (A1),Steel,Stage 1
+,183,Dratini,◇,Genetic Apex - Mewtwo (A1),Dragon,Basic
+,184,Dragonair,◇◇,Genetic Apex - Mewtwo (A1),Dragon,Stage 1
+,185,Dragonite,◇◇◇,Genetic Apex - Mewtwo (A1),Dragon,Stage 2
+,186,Pidgey,◇,Genetic Apex - Mewtwo (A1),Colorless,Basic
+,187,Pidgeotto,◇,Genetic Apex - Mewtwo (A1),Colorless,Stage 1
+,188,Pidgeot,◇◇◇,Genetic Apex - Mewtwo (A1),Colorless,Stage 2
+,189,Rattata,◇,Genetic Apex - Any (A1),Colorless,Basic
+,190,Raticate,◇,Genetic Apex - Any (A1),Colorless,Stage 1
+,191,Spearow,◇,Genetic Apex - Charizard (A1),Colorless,Basic
+,192,Fearow,◇,Genetic Apex - Charizard (A1),Colorless,Stage 1
+,193,Jigglypuff,◇,Genetic Apex - Pikachu (A1),Colorless,Basic
+,194,Wigglytuff,◇,Genetic Apex - Pikachu (A1),Colorless,Stage 1
+,195,Wigglytuff ex,◇◇◇◇,Genetic Apex - Pikachu (A1),Colorless,Stage 1
+,196,Meowth,◇,Genetic Apex - Charizard (A1),Colorless,Basic
+,197,Persian,◇◇,Genetic Apex - Charizard (A1),Colorless,Stage 1
+,198,Farfetch'd,◇,Genetic Apex - Any (A1),Colorless,Basic
+,199,Doduo,◇,Genetic Apex - Any (A1),Colorless,Basic
+,200,Dodrio,◇◇,Genetic Apex - Any (A1),Colorless,Stage 1
+,201,Lickitung,◇◇,Genetic Apex - Mewtwo (A1),Colorless,Basic
+,202,Chansey,◇◇,Genetic Apex - Pikachu (A1),Colorless,Basic
+,203,Kangaskhan,◇◇◇,Genetic Apex - Charizard (A1),Colorless,Basic
+,204,Tauros,◇◇,Genetic Apex - Charizard (A1),Colorless,Basic
+,205,Ditto,◇◇◇,Genetic Apex - Mewtwo (A1),Colorless,Basic
+,206,Eevee,◇,Genetic Apex - Charizard (A1),Colorless,Basic
+,207,Eevee,◇,Genetic Apex - Mewtwo (A1),Colorless,Basic
+,208,Eevee,◇,Genetic Apex - Pikachu (A1),Colorless,Basic
+,209,Porygon,◇◇,Genetic Apex - Mewtwo (A1),Colorless,Basic
+,210,Aerodactyl,◇◇◇,Genetic Apex - Mewtwo (A1),Colorless,Stage 1
+,211,Snorlax,◇◇◇,Genetic Apex - Pikachu (A1),Colorless,Basic
+,212,Minccino,◇,Genetic Apex - Any (A1),Colorless,Basic
+,213,Cinccino,◇◇,Genetic Apex - Any (A1),Colorless,Stage 1
+,214,Wooloo,◇,Genetic Apex - Any (A1),Colorless,Basic
+,215,Dubwool,◇,Genetic Apex - Any (A1),Colorless,Stage 1
+,216,Helix Fossil,◇,Genetic Apex - Pikachu (A1),Item,
+,217,Dome Fossil,◇,Genetic Apex - Charizard (A1),Item,
+,218,Old Amber,◇,Genetic Apex - Mewtwo (A1),Item,
+,219,Erika,◇◇,Genetic Apex - Charizard (A1),Trainer,
+,220,Misty,◇◇,Genetic Apex - Pikachu (A1),Trainer,
+,221,Blaine,◇◇,Genetic Apex - Charizard (A1),Trainer,
+,222,Koga,◇◇,Genetic Apex - Mewtwo (A1),Trainer,
+,223,Giovanni,◇◇,Genetic Apex - Mewtwo (A1),Trainer,
+,224,Brock,◇◇,Genetic Apex - Pikachu (A1),Trainer,
+,225,Sabrina,◇◇,Genetic Apex - Charizard (A1),Trainer,
+,226,Lt. Surge,◇◇,Genetic Apex - Pikachu (A1),Trainer,
+,227,Bulbasaur,☆,Genetic Apex - Mewtwo (A1),Grass,Basic
+,228,Gloom,☆,Genetic Apex - Charizard (A1),Grass,Stage 1
+,229,Pinsir,☆,Genetic Apex - Charizard (A1),Grass,Basic
+,230,Charmander,☆,Genetic Apex - Charizard (A1),Fire,Basic
+,231,Rapidash,☆,Genetic Apex - Charizard (A1),Fire,Stage 1
+,232,Squirtle,☆,Genetic Apex - Pikachu (A1),Water,Basic
+,233,Gyarados,☆,Genetic Apex - Pikachu (A1),Water,Stage 1
+,234,Lapras,☆,Genetic Apex - Charizard (A1),Water,Basic
+,235,Electrode,☆,Genetic Apex - Pikachu (A1),,Stage 1
+,236,Alakazam,☆,Genetic Apex - Charizard (A1),,Stage 2
+,237,Slowpoke,☆,Genetic Apex - Charizard (A1),,Basic
+,238,Diglett,☆,Genetic Apex - Pikachu (A1),,Basic
+,239,Cubone,☆,Genetic Apex - Mewtwo (A1),,Basic
+,240,Nidoqueen,☆,Genetic Apex - Pikachu (A1),,Stage 2
+,241,Nidoking,☆,Genetic Apex - Pikachu (A1),,Stage 2
+,242,Golbat,☆,Genetic Apex - Mewtwo (A1),,Stage 1
+,243,Weezing,☆,Genetic Apex - Mewtwo (A1),,Stage 1
+,244,Dragonite,☆,Genetic Apex - Mewtwo (A1),,Stage 2
+,245,Pidgeot,☆,Genetic Apex - Mewtwo (A1),,Stage 2
+,246,Meowth,☆,Genetic Apex - Charizard (A1),,Basic
+,247,Ditto,☆,Genetic Apex - Mewtwo (A1),,Basic
+,248,Eevee,☆,Genetic Apex - Pikachu (A1),,Basic
+,249,Porygon,☆,Genetic Apex - Mewtwo (A1),,Basic
+,250,Snorlax,☆,Genetic Apex - Pikachu (A1),,Basic
+,251,Venusaur ex,☆☆,Genetic Apex - Mewtwo (A1),,Stage 2
+,252,Exeggutor ex,☆☆,Genetic Apex - Charizard (A1),,Stage 1
+,253,Charizard ex,☆☆,Genetic Apex - Charizard (A1),,Stage 2
+,254,Arcanine ex,☆☆,Genetic Apex - Pikachu (A1),,Stage 1
+,255,Moltres ex,☆☆,Genetic Apex - Charizard (A1),,Basic
+,256,Blastoise ex,☆☆,Genetic Apex - Pikachu (A1),,Stage 2
+,257,Starmie ex,☆☆,Genetic Apex - Charizard (A1),,Stage 1
+,258,Articuno ex,☆☆,Genetic Apex - Mewtwo (A1),,Basic
+,259,Pikachu ex,☆☆,Genetic Apex - Pikachu (A1),,Basic
+,260,Zapdos ex,☆☆,Genetic Apex - Pikachu (A1),,Basic
+,261,Gengar ex,☆☆,Genetic Apex - Mewtwo (A1),,Stage 2
+,262,Mewtwo ex,☆☆,Genetic Apex - Mewtwo (A1),,Basic
+,263,Machamp ex,☆☆,Genetic Apex - Charizard (A1),,Stage 2
+,264,Marowak ex,☆☆,Genetic Apex - Mewtwo (A1),,Stage 1
+,265,Wigglytuff ex,☆☆,Genetic Apex - Pikachu (A1),,Stage 1
+,266,Erika,☆☆,Genetic Apex - Charizard (A1),,
+,267,Misty,☆☆,Genetic Apex - Pikachu (A1),,
+,268,Blaine,☆☆,Genetic Apex - Charizard (A1),,
+,269,Koga,☆☆,Genetic Apex - Mewtwo (A1),,
+,270,Giovanni,☆☆,Genetic Apex - Mewtwo (A1),,
+,271,Brock,☆☆,Genetic Apex - Pikachu (A1),,
+,272,Sabrina,☆☆,Genetic Apex - Charizard (A1),,
+,273,Lt. Surge,☆☆,Genetic Apex - Pikachu (A1),,
+,274,Moltres ex,☆☆,Genetic Apex - Charizard (A1),,Basic
+,275,Articuno ex,☆☆,Genetic Apex - Mewtwo (A1),,Basic
+,276,Zapdos ex,☆☆,Genetic Apex - Pikachu (A1),,Basic
+,277,Gengar ex,☆☆,Genetic Apex - Mewtwo (A1),,Stage 2
+,278,Machamp ex,☆☆,Genetic Apex - Charizard (A1),,Stage 2
+,279,Wigglytuff ex,☆☆,Genetic Apex - Pikachu (A1),,Stage 1
+,280,Charizard ex,☆☆☆,Genetic Apex - Charizard (A1),,Stage 2
+,281,Pikachu ex,☆☆☆,Genetic Apex - Pikachu (A1),,Basic
+,282,Mewtwo ex,☆☆☆,Genetic Apex - Mewtwo (A1),,Basic
+,283,Mew,☆☆☆,Genetic Apex (A1) Special,,Basic
+,284,Charizard ex,♛,Genetic Apex - Any (A1),,Stage 2
+,285,Pikachu ex,♛,Genetic Apex - Any (A1),,Basic
+,286,Mewtwo ex,♛,Genetic Apex - Any (A1),,Basic
+,A-001,Exeggcute,◇,Mythical Island - Mew (A1a),,Basic
+,A-002,Exeggutor,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-003,Celebi ex,◇◇◇◇,Mythical Island - Mew (A1a),,Basic
+,A-004,Snivy,◇,Mythical Island - Mew (A1a),,Basic
+,A-005,Servine,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-006,Serperior,◇◇◇,Mythical Island - Mew (A1a),,Stage 2
+,A-007,Morelull,◇,Mythical Island - Mew (A1a),,Basic
+,A-008,Shiinotic,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-009,Dhelmise,◇◇,Mythical Island - Mew (A1a),,Basic
+,A-010,Ponyta,◇,Mythical Island - Mew (A1a),,Basic
+,A-011,Rapidash,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-012,Magmar,◇◇,Mythical Island - Mew (A1a),,Basic
+,A-013,Larvesta,◇,Mythical Island - Mew (A1a),,Basic
+,A-014,Volcarona,◇◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-015,Salandit,◇,Mythical Island - Mew (A1a),,Basic
+,A-016,Salazzle,◇,Mythical Island - Mew (A1a),,Stage 1
+,A-017,Magikarp,◇,Mythical Island - Mew (A1a),,Basic
+,A-018,Gyarados ex,◇◇◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-019,Vaporeon,◇◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-020,Finneon,◇,Mythical Island - Mew (A1a),,Basic
+,A-021,Lumineon,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-022,Chewtle,◇,Mythical Island - Mew (A1a),,Basic
+,A-023,Drednaw,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-024,Cramorant,◇,Mythical Island - Mew (A1a),,Basic
+,A-025,Pikachu,◇,Mythical Island - Mew (A1a),,Basic
+,A-026,Raichu,◇◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-027,Electabuzz,◇◇,Mythical Island - Mew (A1a),,Basic
+,A-028,Joltik,◇,Mythical Island - Mew (A1a),,Basic
+,A-029,Galvantula,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-030,Dedenne,◇,Mythical Island - Mew (A1a),,Basic
+,A-031,Mew,◇◇◇,Mythical Island - Mew (A1a),,Basic
+,A-032,Mew ex,◇◇◇◇,Mythical Island - Mew (A1a),,Basic
+,A-033,Sigilyph,◇◇,Mythical Island - Mew (A1a),,Basic
+,A-034,Elgyem,◇,Mythical Island - Mew (A1a),,Basic
+,A-035,Beheeyem,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-036,Flabebe,◇,Mythical Island - Mew (A1a),,Basic
+,A-037,Floette,◇,Mythical Island - Mew (A1a),,Stage 1
+,A-038,Florges,◇◇,Mythical Island - Mew (A1a),,Stage 2
+,A-039,Swirlix,◇,Mythical Island - Mew (A1a),,Basic
+,A-040,Slurpuff,◇,Mythical Island - Mew (A1a),,Stage 1
+,A-041,Mankey,◇,Mythical Island - Mew (A1a),,Basic
+,A-042,Primeape,◇,Mythical Island - Mew (A1a),,Stage 1
+,A-043,Geodude,◇,Mythical Island - Mew (A1a),,Basic
+,A-044,Graveler,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-045,Golem,◇◇◇,Mythical Island - Mew (A1a),,Stage 2
+,A-046,Aerodactyl ex,◇◇◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-047,Marshadow,◇◇◇,Mythical Island - Mew (A1a),,Basic
+,A-048,Stonjourner,◇◇,Mythical Island - Mew (A1a),,Basic
+,A-049,Koffing,◇,Mythical Island - Mew (A1a),,Basic
+,A-050,Weezing,◇◇,Mythical Island - Mew (A1a),,Stage 1
+,A-051,Purrloin,◇,Mythical Island - Mew (A1a),,Basic
+,A-052,Liepard,◇,Mythical Island - Mew (A1a),,Stage 1
+,A-053,Venipede,◇,Mythical Island - Mew (A1a),,Basic
+,A-054,Whirlipede,◇,Mythical Island - Mew (A1a),,Stage 1
+,A-055,Scolipede,◇◇,Mythical Island - Mew (A1a),,Stage 2
+,A-056,Druddigon,◇◇,Mythical Island - Mew (A1a),,Basic
+,A-057,Pidgey,◇,Mythical Island - Mew (A1a),,Basic
+,A-058,Pidgeotto,◇,Mythical Island - Mew (A1a),,Stage 1
+,A-059,Pidgeot ex,◇◇◇◇,Mythical Island - Mew (A1a),,Stage 2
+,A-060,Tauros,◇◇◇,Mythical Island - Mew (A1a),,Basic
+,A-061,Eevee,◇,Mythical Island - Mew (A1a),,Basic
+,A-062,Chatot,◇,Mythical Island - Mew (A1a),,Basic
+,A-063,Old Amber,◇,Mythical Island - Mew (A1a),,
+,A-064,Pokemon Flute,◇◇,Mythical Island - Mew (A1a),,
+,A-065,Mythical Slab,◇◇,Mythical Island - Mew (A1a),,
+,A-066,Budding Expeditioner,◇◇,Mythical Island - Mew (A1a),,
+,A-067,Blue,◇◇,Mythical Island - Mew (A1a),,
+,A-068,Leaf,◇◇,Mythical Island - Mew (A1a),,
+,A-069,Exeggutor,☆,Mythical Island - Mew (A1a),,Stage 1
+,A-070,Serperior,☆,Mythical Island - Mew (A1a),,Stage 2
+,A-071,Salandit,☆,Mythical Island - Mew (A1a),,Basic
+,A-072,Vaporeon,☆,Mythical Island - Mew (A1a),,Stage 1
+,A-073,Dedenne,☆,Mythical Island - Mew (A1a),,Basic
+,A-074,Marshadow,☆,Mythical Island - Mew (A1a),,Basic
+,A-075,Celebi ex,☆☆,Mythical Island - Mew (A1a),,Basic
+,A-076,Gyarados ex,☆☆,Mythical Island - Mew (A1a),,Stage 1
+,A-077,Mew ex,☆☆,Mythical Island - Mew (A1a),,Basic
+,A-078,Aerodactyl ex,☆☆,Mythical Island - Mew (A1a),,Stage 1
+,A-079,Pidgeot ex,☆☆,Mythical Island - Mew (A1a),,Stage 2
+,A-080,Budding Expeditioner,☆☆,Mythical Island - Mew (A1a),,
+,A-081,Blue,☆☆,Mythical Island - Mew (A1a),,
+,A-082,Leaf,☆☆,Mythical Island - Mew (A1a),,
+,A-083,Mew ex,☆☆,Mythical Island - Mew (A1a),,Basic
+,A-084,Aerodactyl ex,☆☆,Mythical Island - Mew (A1a),,Stage 1
+,A-085,Celebi ex,☆☆☆,Mythical Island - Mew (A1a),,Basic
+,A-086,Mew ex,♛,Mythical Island - Mew (A1a),,Basic
+,A2-001,Oddish,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-002,Gloom,◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-003,Bellossom,◇◇,Space-Time Smackdown - Any (A2),,Stage 2
+,A2-004,Tangela,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-005,Tangrowth,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-006,Yanma,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-007,Yanmega ex,◇◇◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-008,Roselia,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-009,Roserade,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-010,Turtwig,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-011,Grotle,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-012,Torterra,◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-013,Kricketot,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-014,Kricketune,◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-015,Burmy,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-016,Wormadam,◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-017,Combee,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-018,Vespiquen,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-019,Carnivine,◇◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-020,Leafeon,◇◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-021,Mow Rotom,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-022,Shaymin,◇◇◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-023,Magmar,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-024,Magmortar,◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-025,Slugma,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-026,Magcargo,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-027,Chimchar,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-028,Monferno,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-029,Infernape ex,◇◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-030,Heat Rotom,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-031,Swinub,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-032,Piloswine,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-033,Mamoswine,◇◇◇,Space-Time Smackdown - Dialga (A2),,Stage 2
+,A2-034,Regice,◇◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-035,Piplup,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-036,Prinplup,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-037,Empoleon,◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-038,Buizel,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-039,Floatzel,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-040,Shellos,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-041,Gastrodon,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-042,Finneon,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-043,Lumineon,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-044,Snover,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-045,Abomasnow,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-046,Glaceon,◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-047,Wash Rotom,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-048,Frost Rotom,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-049,Palkia ex,◇◇◇◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-050,Manaphy,◇◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-051,Magnemite,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-052,Magneton,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-053,Magnezone,◇◇◇,Space-Time Smackdown - Any (A2),,Stage 2
+,A2-054,Voltorb,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-055,Electrode,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-056,Electabuzz,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-057,Electivire,◇◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-058,Shinx,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-059,Luxio,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-060,Luxray,◇◇◇,Space-Time Smackdown - Dialga (A2),,Stage 2
+,A2-061,Pachirisu ex,◇◇◇◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-062,Rotom,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-063,Togepi,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-064,Togetic,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-065,Togekiss,◇◇◇,Space-Time Smackdown - Any (A2),,Stage 2
+,A2-066,Misdreavus,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-067,Mismagius ex,◇◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-068,Ralts,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-069,Kirlia,◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-070,Duskull,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-071,Dusclops,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-072,Dusknoir,◇◇◇,Space-Time Smackdown - Dialga (A2),,Stage 2
+,A2-073,Drifloon,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-074,Drifblim,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-075,Uxie,◇◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-076,Mesprit,◇◇◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-077,Azelf,◇◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-078,Giratina,◇◇◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-079,Cresselia,◇◇◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-080,Rhyhorn,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-081,Rhydon,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-082,Rhyperior,◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-083,Gligar,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-084,Gliscor,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-085,Hitmontop,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-086,Nosepass,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-087,Regirock,◇◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-088,Cranidos,◇◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-089,Rampardos,◇◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-090,Wormadam,◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-091,Riolu,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-092,Lucario,◇◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-093,Hippopotas,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-094,Hippowdon,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-095,Gallade ex,◇◇◇◇,Space-Time Smackdown - Dialga (A2),,Stage 2
+,A2-096,Murkrow,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-097,Honchkrow,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-098,Sneasel,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-099,Weavile ex,◇◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-100,Poochyena,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-101,Mightyena,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-102,Stunky,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-103,Skuntank,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-104,Spiritomb,◇◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-105,Skorupi,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-106,Drapion,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-107,Croagunk,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-108,Toxicroak,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-109,Darkrai,◇◇◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-110,Darkrai ex,◇◇◇◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-111,Skarmory,◇◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-112,Registeel,◇◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-113,Shieldon,◇◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-114,Bastiodon,◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-115,Wormadam,◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-116,Bronzor,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-117,Bronzong,◇◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-118,Probopass,◇◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-119,Dialga ex,◇◇◇◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-120,Heatran,◇◇◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-121,Gible,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-122,Gabite,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-123,Garchomp,◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-124,Lickitung,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-125,Lickilicky ex,◇◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-126,Eevee,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-127,Porygon,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-128,Porygon2,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-129,Porygon-Z,◇◇◇,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-130,Aipom,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-131,Ambipom,◇,Space-Time Smackdown - Any (A2),,Stage 1
+,A2-132,Starly,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-133,Staravia,◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-134,Staraptor,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-135,Bidoof,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-136,Bibarel,◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-137,Buneary,◇,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-138,Lopunny,◇,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-139,Glameow,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-140,Purugly,◇◇,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-141,Chatot,◇,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-142,Fan Rotom,◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-143,Regigigas,◇◇◇,Space-Time Smackdown - Any (A2),,Basic
+,A2-144,Skull Fossil,◇,Space-Time Smackdown - Dialga (A2),,
+,A2-145,Armor Fossil,◇,Space-Time Smackdown - Palkia (A2),,
+,A2-146,Pokemon Communication,◇◇,Space-Time Smackdown - Dialga (A2),,
+,A2-147,Giant Cape,◇◇,Space-Time Smackdown - Dialga (A2),,
+,A2-148,Rocky Helmet,◇◇,Space-Time Smackdown - Palkia (A2),,
+,A2-149,Lum Berry,◇◇,Space-Time Smackdown - Palkia (A2),,
+,A2-150,Cyrus,◇◇,Space-Time Smackdown - Palkia (A2),,
+,A2-151,Team Galactic Grunt,◇◇,Space-Time Smackdown - Dialga (A2),,
+,A2-152,Cynthia,◇◇,Space-Time Smackdown - Palkia (A2),,
+,A2-153,Volkner,◇◇,Space-Time Smackdown - Dialga (A2),,
+,A2-154,Dawn,◇◇,Space-Time Smackdown - Dialga (A2),,
+,A2-155,Mars,◇◇,Space-Time Smackdown - Palkia (A2),,
+,A2-156,Tangrowth,☆,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-157,Combee,☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-158,Carnivine,☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-159,Shaymin,☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-160,Mamoswine,☆,Space-Time Smackdown - Dialga (A2),,Stage 2
+,A2-161,Gastrodon,☆,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-162,Manaphy,☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-163,Shinx,☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-164,Rotom,☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-165,Drifloon,☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-166,Mesprit,☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-167,Giratina,☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-168,Cresselia,☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-169,Rhyperior,☆,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-170,Lucario,☆,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-171,Hippopotas,☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-172,Spiritomb,☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-173,Croagunk,☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-174,Heatran,☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-175,Garchomp,☆,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-176,Staraptor,☆,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-177,Bidoof,☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-178,Glameow,☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-179,Regigigas,☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-180,Yanmega ex,☆☆,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-181,Infernape ex,☆☆,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-182,Palkia ex,☆☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-183,Pachirisu ex,☆☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-184,Mismagius ex,☆☆,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-185,Gallade ex,☆☆,Space-Time Smackdown - Dialga (A2),,Stage 2
+,A2-186,Weavile ex,☆☆,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-187,Darkrai ex,☆☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-188,Dialga ex,☆☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-189,Lickilicky ex,☆☆,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-190,Cyrus,☆☆,Space-Time Smackdown - Palkia (A2),,
+,A2-191,Team Galactic Grunt,☆☆,Space-Time Smackdown - Dialga (A2),,
+,A2-192,Cynthia,☆☆,Space-Time Smackdown - Palkia (A2),,
+,A2-193,Volkner,☆☆,Space-Time Smackdown - Dialga (A2),,
+,A2-194,Dawn,☆☆,Space-Time Smackdown - Dialga (A2),,
+,A2-195,Mars,☆☆,Space-Time Smackdown - Palkia (A2),,
+,A2-196,Yanmega ex,☆☆,Space-Time Smackdown - Dialga (A2),,Stage 1
+,A2-197,Infernape ex,☆☆,Space-Time Smackdown - Palkia (A2),,Stage 2
+,A2-198,Pachirisu ex,☆☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-199,Mismagius ex,☆☆,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-200,Gallade ex,☆☆,Space-Time Smackdown - Dialga (A2),,Stage 2
+,A2-201,Weavile ex,☆☆,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-202,Darkrai ex,☆☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-203,Lickilicky ex,☆☆,Space-Time Smackdown - Palkia (A2),,Stage 1
+,A2-204,Palkia ex,☆☆☆,Space-Time Smackdown - Palkia (A2),,Basic
+,A2-205,Dialga ex,☆☆☆,Space-Time Smackdown - Dialga (A2),,Basic
+,A2-206,Palkia ex,♛,Space-Time Smackdown - Any (A2),,Basic
+,A2-207,Dialga ex,♛,Space-Time Smackdown - Any (A2),,Basic
+,A2a-001,Heracross,◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-002,Burmy,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-003,Mothim,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-004,Combee,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-005,Vespiquen,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-006,Cherubi,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-007,Cherrim,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-008,Cherrim,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-009,Carnivine,◇◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-010,Leafeon ex,◇◇◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-011,Houndour,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-012,Houndoom,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-013,Heatran,◇◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-014,Marill,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-015,Azumarill,◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-016,Barboach,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-017,Whiscash,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-018,Snorunt,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-019,Froslass,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-020,Snover,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-021,Abomasnow,◇◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-022,Glaceon ex,◇◇◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-023,Origin Forme Palkia,◇◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-024,Phione,◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-025,Pikachu,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-026,Raichu,◇◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-027,Electrike,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-028,Manectric,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-029,Clefairy,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-030,Clefable,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-031,Gastly,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-032,Haunter,◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-033,Gengar,◇◇,Triumphant Light - Arceus (A2a),,Stage 2
+,A2a-034,Unown,◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-035,Rotom,◇◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-036,Sudowoodo,◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-037,Phanpy,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-038,Donphan,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-039,Larvitar,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-040,Pupitar,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-041,Tyranitar,◇◇◇,Triumphant Light - Arceus (A2a),,Stage 2
+,A2a-042,Nosepass,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-043,Meditite,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-044,Medicham,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-045,Gible,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-046,Gabite,◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-047,Garchomp ex,◇◇◇◇,Triumphant Light - Arceus (A2a),,Stage 2
+,A2a-048,Zubat,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-049,Golbat,◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-050,Crobat,◇◇◇,Triumphant Light - Arceus (A2a),,Stage 2
+,A2a-051,Croagunk,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-052,Toxicroak,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-053,Magnemite,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-054,Magneton,◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-055,Magnezone,◇◇◇,Triumphant Light - Arceus (A2a),,Stage 2
+,A2a-056,Mawile,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-057,Probopass ex,◇◇◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-058,Bronzor,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-059,Bronzong,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-060,Origin Forme Dialga,◇◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-061,Giratina,◇◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-062,Eevee,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-063,Snorlax,◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-064,Hoothoot,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-065,Noctowl,◇◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-066,Starly,◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-067,Staravia,◇,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-068,Staraptor,◇◇,Triumphant Light - Arceus (A2a),,Stage 2
+,A2a-069,Shaymin,◇◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-070,Arceus,◇◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-071,Arceus ex,◇◇◇◇,Triumphant Light - Arceus (A2a),,Basic
+,A2a-072,Irida,◇◇,Triumphant Light - Arceus (A2a),,
+,A2a-073,Celestic Town Elder,◇◇,Triumphant Light - Arceus (A2a),,
+,A2a-074,Barry,◇◇,Triumphant Light - Arceus (A2a),,
+,A2a-075,Adaman,◇◇,Triumphant Light - Arceus (A2a),,
+,A2a-076,Houndoom,☆,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-077,Marill,☆,Triumphant Light - Arceus (A2a),,Basic
+,A2a-078,Unown,☆,Triumphant Light - Arceus (A2a),,Basic
+,A2a-079,Sudowoodo,☆,Triumphant Light - Arceus (A2a),,Basic
+,A2a-080,Magnemite,☆,Triumphant Light - Arceus (A2a),,Basic
+,A2a-081,Shaymin,☆,Triumphant Light - Arceus (A2a),,Basic
+,A2a-082,Leafeon ex,☆☆,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-083,Glaceon ex,☆☆,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-084,Garchomp ex,☆☆,Triumphant Light - Arceus (A2a),,Stage 2
+,A2a-085,Probopass ex,☆☆,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-086,Arceus ex,☆☆,Triumphant Light - Arceus (A2a),,Basic
+,A2a-087,Irida,☆☆,Triumphant Light - Arceus (A2a),,
+,A2a-088,Celestic Town Elder,☆☆,Triumphant Light - Arceus (A2a),,
+,A2a-089,Barry,☆☆,Triumphant Light - Arceus (A2a),,
+,A2a-090,Adaman,☆☆,Triumphant Light - Arceus (A2a),,
+,A2a-091,Leafeon ex,☆☆,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-092,Glaceon ex,☆☆,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-093,Garchomp ex,☆☆,Triumphant Light - Arceus (A2a),,Stage 2
+,A2a-094,Probopass ex,☆☆,Triumphant Light - Arceus (A2a),,Stage 1
+,A2a-095,Arceus ex,☆☆☆,Triumphant Light - Arceus (A2a),,Basic
+,A2a-096,Arceus ex,♛,Triumphant Light - Arceus (A2a),,Basic
+,P-A-001,Potion,Promo,Promo,,
+,P-A-002,X Speed,Promo,Promo,,
+,P-A-003,Hand Scope,Promo,Promo,,
+,P-A-004,Pokedex,Promo,Promo,,
+,P-A-005,Poke Ball,Promo,Promo,,
+,P-A-006,Red Card,Promo,Promo,,
+,P-A-007,Professor's Research,Promo,Promo,,
+,P-A-008,Pokedex,Promo,Promo,,
+,P-A-009,Pikachu,Promo,Promo,,Basic
+,P-A-010,Mewtwo,Promo,Promo,,Basic
+,P-A-011,Chansey,Promo,Promo,,Basic
+,P-A-012,Meowth,Promo,Promo,,Basic
+,P-A-013,Butterfree,Promo,Promo,,Stage 2
+,P-A-014,Lapras ex,Promo,Promo,,Basic
+,P-A-015,Pikachu,Promo,Promo,,Basic
+,P-A-016,Clefairy,Promo,Promo,,Basic
+,P-A-017,Mankey,Promo,Promo,,Basic
+,P-A-018,Venusaur,Promo,Promo,,Stage 2
+,P-A-019,Greninja,Promo,Promo,,Stage 2
+,P-A-020,Haunter,Promo,Promo,,Stage 1
+,P-A-021,Onix,Promo,Promo,,Basic
+,P-A-022,Jigglypuff,Promo,Promo,,Basic
+,P-A-023,Bulbasaur,Promo,Promo,,Basic
+,P-A-024,Magnemite,Promo,Promo,,Basic
+,P-A-025,Moltres ex,Promo,Promo,,Basic
+,P-A-026,Pikachu,Promo,Promo,,Basic
+,P-A-027,Snivy,Promo,Promo,,Basic
+,P-A-028,Volcarona,Promo,Promo,,Stage 1
+,P-A-029,Blastoise,Promo,Promo,,Stage 2
+,P-A-030,Eevee,Promo,Promo,,Basic
+,P-A-031,Cinccino,Promo,Promo,,Stage 1
+,P-A-032,Charmander,Promo,Promo,,Basic
+,P-A-033,Squirtle,Promo,Promo,,Basic
+,P-A-034,Piplup,Promo,Promo,,Basic
+,P-A-035,Turtwig,Promo,Promo,,Basic
+,P-A-036,Electivire,Promo,Promo,,Stage 2
+,P-A-037,Cresselia ex,Promo,Promo,,Basic
+,P-A-038,Misdreavus,Promo,Promo,,Basic
+,P-A-039,Skarmory,Promo,Promo,,Basic
+,P-A-040,Chimchar,Promo,Promo,,Basic
+,P-A-041,Togepi,Promo,Promo,,Basic

@@ -9,6 +9,18 @@
       type: 3 # string
       required: true
 
+- name: findcardbypokedexid
+  description: Find a card by ID (for example, Bulbsaur = "001", Glaceon EX = "A2a 022")
+  options:
+    - name: card
+      description: The card ID or name to search for.
+      type: 3 # string
+      required: true
+    - name: collection
+      description: The collection to search in (for example, A, A2, A2a)
+      type: 3 # string
+      required: false
+
 - name: deeznuts
   description: Gottem!
   options:

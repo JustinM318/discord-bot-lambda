@@ -3,5 +3,3 @@ mangum
 asgiref
 discord-interactions
 dotenv
-requests
-pandas
